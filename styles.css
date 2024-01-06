@@ -222,4 +222,12 @@ hr {
       border-top: solid 1px #5c5c5c;
       border-bottom: solid 1px #5c5c5c;
     }
+
+    .footer-text {
+      color: #132d46;
+      font-family: "Inter", sans-serif;
+      text-align: center;
+      font-size: 10px;
+      font-weight: 600;
+    }
   }
